@@ -1,0 +1,74 @@
+html {
+	width: 100%;
+	height: 100%;
+	background-size:100% 100%;
+background-image:url("./imagenes/fondoinicial.jpg");	 
+background-repeat:no-repeat;
+background-position:center;
+}
+#menusuperior {
+		text-align:center;
+
+   		 }
+#campeones2{
+	display:block;
+	margin:auto;
+	width: 100%
+
+     }
+#logo{
+	display:block;
+	margin:auto;
+}
+
+#lcs{
+	display:block;
+	margin:auto;
+	
+}
+
+#sales{
+	display:block;
+	margin:auto;
+}
+
+
+#tabla {
+	text-align:center;
+		}
+
+table {
+	margin: 0 auto;
+	}
+
+#tsales{
+	text-align:center;
+		}
+h1{
+	color:#DBA901;
+	text-align: center;
+}
+h2{
+	color:#DBA901;
+}
+
+h3{
+	color:#DBA901;
+}
+
+h4{
+	color:#DBA901;
+}
+
+h5{
+	color:#DBA901;
+}
+
+p{
+	color:white;
+}
+
+a{
+	color:#DBA901;
+}
+
